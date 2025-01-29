@@ -1,0 +1,15 @@
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\bin\Debug\net8.0\Day3wipro.exe
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\bin\Debug\net8.0\Day3wipro.deps.json
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\bin\Debug\net8.0\Day3wipro.runtimeconfig.json
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\bin\Debug\net8.0\Day3wipro.dll
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\bin\Debug\net8.0\Day3wipro.pdb
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\Day3wipro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\Day3wipro.AssemblyInfoInputs.cache
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\Day3wipro.AssemblyInfo.cs
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\Day3wipro.csproj.CoreCompileInputs.cache
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\Day3wipro.sourcelink.json
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\Day3wipro.dll
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\refint\Day3wipro.dll
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\Day3wipro.pdb
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\Day3wipro.genruntimeconfig.cache
+C:\Users\sumanth\source\repos\Day3wipro\Day3wipro\obj\Debug\net8.0\ref\Day3wipro.dll
